@@ -1,0 +1,9 @@
+.button-parent{
+    display:flex;
+    align-items: center;
+}
+.button-counting{
+    width: fit-content;
+    height: fit-content;
+    margin: 8px;
+}
